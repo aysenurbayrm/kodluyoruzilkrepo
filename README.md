@@ -4,4 +4,3 @@
 djslfjffjsfj flsfjsfj 
 fsldfkjdsl;f
 
-[lorem ipsum](http://google.com)
