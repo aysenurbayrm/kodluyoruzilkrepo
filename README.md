@@ -1,5 +1,5 @@
 Kodluyoruz Ilk Repo
-Bu repo Kodluyoruz Frond-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adette index.html barindiriyor.
+Bu repo Kodluyoruz Frond-End Egitiminde olusturdugum ilk repo. Icerisinde bir adet README dosyasi, bir adette index.html barindiriyor.
 
 Installation
 https://github.com/aysenurbayrm/kodluyoruzilkrepo.git
@@ -9,5 +9,5 @@ Contributing
 Katkıda bulunmak isterseniz lütfen bir pull request gönderin veya bir issue açarak önerilerinizi paylaşın. Her türlü geri bildirime açığım!
 
 License
-MIT
+https://opensource.org/licenses/MIT
 
